@@ -25,7 +25,9 @@
 
 Methods:
 *We did a competitive analysis for Schedule Builder.
+
 *looked at 6 different apps, 
+
 *listed advantages and disadvantages 
 
        *competitors are Google Calendar, Canva, Notion, Connecteam, Monday.com, and Goodnotes. 
@@ -38,9 +40,13 @@ Methods:
              
 Findings:
 *Heuristic Evaluation was about 
+
 *Google Calendar is our biggest competitor. 
+
        *scored between 8-10 in 8 out of 9 categories. 
+       
        *Scored 5 on ‘Flexibility and efficiency of use Aesthetic and minimalist design
+       
               *Did not have a minimalist design and had a messy feel when creating a new event or task. 
 
 [Full phase I report](phaseI/)
