@@ -25,9 +25,7 @@
 
 Methods:
 *We did a competitive analysis for Schedule Builder.
-
 *looked at 6 different apps, 
-
 *listed advantages and disadvantages 
 
        *competitors are Google Calendar, Canva, Notion, Connecteam, Monday.com, and Goodnotes. 
