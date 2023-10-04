@@ -10,7 +10,7 @@ We used Heuristic Evaluation, and competitive analysis on other calendar apps th
 ## Findings
 Heuristic evaluation revealed that for some calendars it is hard to create shared calendars with other users, it also revealed that integrating different calendars is easy with most calendar apps.
 Competitive analysis revealed that most of the competing calendar apps don’t have a feature to recommend times to complete tasks before they are due. It also revealed that integrations for school related applications are lacking, and that the details shown on the calendar are not what is desired for some students. 
-![Findings chart](/sketches/)
+![Findings chart](/sketches/Screenshot 2023-10-03 171427.png)
 
 ## Conclusions
 
