@@ -19,7 +19,10 @@ Competitive analysis revealed that most of the competing calendar apps don’t h
 
 ## Conclusions
 
-!!! Discoveries derived from the methods and their findings. Interpret how the findings translate into new insights into UX design recommendations. Describe those recommendations and how they should shape future work. In this section, include the new design recommendations based on the latest user insights. !!!
+We found that Google Calendar was one of the best calendar apps on the market. It has many features that people enjoy such as transferring the calendar from Canvas, being easily shareable, and being easy for beginners to use. But people are still not happy with it because it is aesthetically displeasing and can be messy. People enjoy websites like Notion, Canva, and Goodnotes for their customizability options, but these apps don’t have the best basic calendar features, like shareability or transferring classes from Canvas. 
+
+These findings will shape our future work because we know we need to implement a sleek look so new users aren’t overwhelmed. Users will be able to transfer classes from Canvas and our website to generate a timeline for when they should start their assignments. In addition, the users will be able to customize if they please.
+
 
 ## Caveats
 
