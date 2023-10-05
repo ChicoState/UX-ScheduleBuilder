@@ -8,7 +8,8 @@ Joe
 - Realized that being in a sport and a fulltime student is taking up more of his time and energy. He is struggling juggling everything that he has to do in the week. His normal way to track his activities/events is to write it in his notes app and starts many of his assignments last minute.
 
 Ann 
-<img width="256" alt="Screenshot 2023-10-05 145330" src="https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/c8171b25-183b-446a-b4f6-7825289c8abf">
+![AdobeStock_569449807_Preview](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/b8420416-d61a-483d-80ca-4a3e60755581)
+
 
 - 53 years old female
 - Mom
