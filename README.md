@@ -1,12 +1,12 @@
 !!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
 
-# !!!Project Name!!!
+# Schedule Builder
 
-!!!Brief introduction to the project and the problem it is intended to solve!!!
+Schedule Builder is a calendar that will take in assignment data from students' canvas accounts and generate a school schedule around their available time in order to help student work and finish assignments in a timely manner. 
 
 ## UX Team Members
 
-* **[Person A](!!!URL to Person A's published portfolio!!!)** - !!!List of Person A's primary contributions!!!
+* **[Elias Legato](https://github.com/UsabilityEngineering/ux-portfolio-enlegato/tree/master)** - Wireframe pages, documentation
 * **[Person B](!!!URL to Person B's published portfolio!!!)** - !!!List of Person B's primary contributions!!!
 * **[Person C](!!!URL to Person C's published portfolio!!!)** - !!!List of Person C's primary contributions!!!
 
