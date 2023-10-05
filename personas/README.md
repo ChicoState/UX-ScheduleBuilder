@@ -1,5 +1,7 @@
 # Personas
 Joe
+![AdobeStock_92488576_Preview](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/8724c10f-67f3-4674-9e3d-ad502dc5da03)
+
 - 23 year old male
 - Full time Student + basketball college athlete
 - Joe is a full-time student trying to get his BA in Kinesiology. Monday, Wednesday, and Friday he has classes back to back. On Tuesdays and Thursday’s he has practice and Friday evenings are his game nights. He is single and lives in an apartment near campus. On the weekends he does best to do his assignments. He is super outgoing and loves to go out with his friends during his free time.
