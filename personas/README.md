@@ -8,6 +8,8 @@ Joe
 - Realized that being in a sport and a fulltime student is taking up more of his time and energy. He is struggling juggling everything that he has to do in the week. His normal way to track his activities/events is to write it in his notes app and starts many of his assignments last minute.
 
 Ann 
+<img width="256" alt="Screenshot 2023-10-05 145330" src="https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/c8171b25-183b-446a-b4f6-7825289c8abf">
+
 - 53 years old female
 - Mom
 - Anne is a mother of 2 children in their 20’s. Was a stay at home mom. Now a full time student. Has classes through the weekdays. She has been married for 25 years.
