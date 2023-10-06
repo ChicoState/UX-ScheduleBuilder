@@ -24,30 +24,20 @@ Schedule Builder is a calendar that will take in assignment data from students' 
 **Executive Summary**
 
 Methods:
-*We did a competitive analysis for Schedule Builder.
-
-*looked at 6 different apps, 
-
-*listed advantages and disadvantages 
-
-       *competitors are Google Calendar, Canva, Notion, Connecteam, Monday.com, and Goodnotes. 
-       
-       *Apps and websites are lacking: 
-       
-            *the ability to shift the Canvas calendar to their app. 
-            
-       *Many are free and if users want extra features then they have a subscription for it. 
+* We did a competitive analysis for Schedule Builder.
+* looked at 6 different apps, 
+* listed advantages and disadvantages 
+       * competitors are Google Calendar, Canva, Notion, Connecteam, Monday.com, and Goodnotes.        
+       * Apps and websites are lacking:        
+            * the ability to shift the Canvas calendar to their app.             
+       * Many are free and if users want extra features then they have a subscription for it. 
              
 Findings:
-*Heuristic Evaluation was about 
-
-       *Google Calendar is our biggest competitor. 
-       
-       *scored between 8-10 in 8 out of 9 categories.  
-       
-       *Scored 5 on ‘Flexibility and efficiency of use Aesthetic and minimalist design
-       
-           *Did not have a minimalist design and had a messy feel when creating a new event or task. 
+* Heuristic Evaluation was about 
+       * Google Calendar is our biggest competitor.    
+       * scored between 8-10 in 8 out of 9 categories.    
+       * Scored 5 on ‘Flexibility and efficiency of use Aesthetic and minimalist design   
+           * Did not have a minimalist design and had a messy feel when creating a new event or task. 
 
 [Full phase I report](phaseI/)
 
