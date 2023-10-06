@@ -29,7 +29,7 @@ Methods:
 * listed advantages and disadvantages 
   * competitors are Google Calendar, Canva, Notion, Connecteam, Monday.com, and Goodnotes.        
   * Apps and websites are lacking:        
-    * the ability to shift the Canvas calendar to their app.             
+     * the ability to shift the Canvas calendar to their app.             
   * Many are free and if users want extra features then they have a subscription for it. 
              
 Findings:
