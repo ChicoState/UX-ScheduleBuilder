@@ -44,11 +44,19 @@ Findings:
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+**Informal Feedback** found areas for improvement by providing new features that could be added. 
+* Switching views: Users gave positive feedback about the ability to switch between list, weekly, and monthly views.
+* Deadline: Reminders for assignments before deadline and implementing a feature to prevent overbooking.
+* Positive reinforcement: Helps encourage users to complete phases of an assignment by associating it with something to look forward to. 
 
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
+**Cognitive Walkthrough** on early wireframes found missing elements and points of confusion.
+* Missing Screens: missing screens include transitions, settings, account information, help, and add events/assignments.
+* Confusion with certain screens and their elements: confusion with what things are included with “details” and where they will appear.
+* Ambiguity with buttons and features: confusion with what certain buttons will do or where they lead, and with how certain features will work or appear.
+* Missing feedback: Users are uncertain if their information is saved because of a lack of feedback.
+
+**Wireframes** based on findings, emphasize a modern design with a focus on easy navigation. Added missing screens, elements, and examples of features working as intended. Implemented feedback to show that progress and information is being saved.  
+
 
 [Full phase II report](phaseII/)
 
