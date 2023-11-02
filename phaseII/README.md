@@ -47,4 +47,5 @@ Our findings indicate that we must include additional elements in our wireframe,
 
 ## Caveats
 
+Feedback from both methods is informal and from a narrow range of people. making it less accurate. In our informal feedback, there was a limitation in the questions we could ask. Subjects performing the cognitive walkthrough may or may not have had experience performing cognitive walkthroughs.
 
