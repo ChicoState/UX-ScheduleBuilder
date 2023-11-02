@@ -10,8 +10,10 @@ The general problem that is being addressed is the look of the app, as well as t
 -Informal Feedback
 Informal feedback was used to discover new insights about the app. We asked users questions 
 about the look and feel of our app. The questions asked were: 
+    
     1) Which of these would you want to be the default main screen? 
     2) What information would you like to be shown about each assignment or task in an app like        this? 
+    
 This was conducted to get opinions on how our app should look and what information users want presented. These questions were asked to college students, the main audience we are targeting. 
 
 
