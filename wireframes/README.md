@@ -1,3 +1,2 @@
 # Wireframes
-![Account_Screen_Popup](./UX-ScheduleBuilder/wireframes/Account screen popup.png)
-<img src="wireframes/Account screen popup.png" width="128"/>
+![Account_Screen_Popup](./Account screen popup.png)
