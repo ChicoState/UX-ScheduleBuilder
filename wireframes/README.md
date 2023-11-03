@@ -1,2 +1,2 @@
 # Wireframes
-![Account Screen Popup](wireframes/Account screen popup.png)
+![Account Screen Popup](./wireframes/Account screen popup.png)
