@@ -1,2 +1,2 @@
 # Wireframes
-![Account Screen Popup](./UX-ScheduleBuilder/wireframes/Account screen popup.png)
+![Account_Screen_Popup](./UX-ScheduleBuilder/wireframes/Account screen popup.png)
