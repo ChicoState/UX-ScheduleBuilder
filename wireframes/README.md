@@ -1,2 +1,2 @@
 # Wireframes
-[wireframes/Account screen popup.png][(https://github.com/ChicoState/UX-ScheduleBuilder/blob/4a03a526e962315b03f5232724dc72d319fafc5e/wireframes/Details%20Pop-up.png](https://github.com/ChicoState/UX-ScheduleBuilder/blob/4a03a526e962315b03f5232724dc72d319fafc5e/wireframes/Details%20Pop-up.png)https://github.com/ChicoState/UX-ScheduleBuilder/blob/4a03a526e962315b03f5232724dc72d319fafc5e/wireframes/Details%20Pop-up.png)
+https://github.com/ChicoState/UX-ScheduleBuilder/blob/f11462e34f5dc2bf7f2121fe9ba9c2ca102cdd71/wireframes/Schedulebuilder%20Wireframes.pdf
