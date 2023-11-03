@@ -6,9 +6,9 @@ Schedule Builder is a calendar that will take in assignment data from students' 
 
 ## UX Team Members
 
-* **[Elias Legato](https://github.com/UsabilityEngineering/ux-portfolio-enlegato/tree/master)** - Wireframe pages, documentation, Personas/Scenarios and Sketches.
-* **[Maansi Bhardwaj](https://github.com/UsabilityEngineering/ux-portfolio-bmaansi)** - Phase I Conclusion, Wireframe pages, Summary, & Caveats. Personas/Scenarios and Sketches.
-* **[Nathalie Rios](https://github.com/UsabilityEngineering/ux-portfolio-nathalie101#nathalie-ux-portfolio)** - Executive Summary, Wireframe pages, Personas/Scenarios and Sketches.
+* **[Elias Legato](https://github.com/UsabilityEngineering/ux-portfolio-enlegato/tree/master)** - Phase I Report, Phase II report, Executive Summary, Personas/Scenarios, Sketches, Wireframe. 
+* **[Maansi Bhardwaj](https://github.com/UsabilityEngineering/ux-portfolio-bmaansi)** - Phase I Report, Phase II report, Executive Summary, Personas/Scenarios, Sketches, Wireframe.
+* **[Nathalie Rios](https://github.com/UsabilityEngineering/ux-portfolio-nathalie101#nathalie-ux-portfolio)** - Phase I Report, Phase II report, Executive Summary, Personas/Scenarios, Sketches, Wireframe.
 
 # User-Centered Design Artifacts
  
