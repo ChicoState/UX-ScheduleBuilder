@@ -7,8 +7,8 @@ The general problem that is being addressed is the look of the app, as well as t
 
 ## Methods
 
--Informal Feedback
-Informal feedback was used to discover new insights about the app. We asked users questions 
+**Informal Feedback**
+* Informal feedback was used to discover new insights about the app. We asked users questions 
 about the look and feel of our app. The questions asked were: 
     
     1) Which of these would you want to be the default main screen? 
@@ -17,27 +17,27 @@ about the look and feel of our app. The questions asked were:
 This was conducted to get opinions on how our app should look and what information users want presented. These questions were asked to college students, the main audience we are targeting. 
 
 
--Wireframe and cognitive walkthrough
-We created wireframes from our sketches and gave them to a few college students to let them perform a cognitive walkthrough analysis. They tried to complete tasks based on the personas we created previously. At each step, they were asked these set of questions:
+**Wireframe and cognitive walkthrough**
+* We created wireframes from our sketches and gave them to a few college students to let them perform a cognitive walkthrough analysis. They tried to complete tasks based on the personas we created previously. At each step, they were asked these set of questions:
     
     1) Will the user know what to do at this step?
-    1) If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+    2) If the user does the right thing, will the user know that they did the right thing and is making progress toward the goal?
+       
 The purpose of the walkthrough was to ensure that our app was usable and there was a screen for each step.
 
 
 ## Findings
 
-From informal feedback, we found that,
-
-    -Users like the ability to switch between different ‘views’.
-    -Users want the ability to see all deadlines and need a feature to prevent overbooking for a specific date.
-    -Users like positive reinforcement as encouragement to finish a task
+From informal feedback, we found that
+* Users like the ability to switch between different ‘views’.
+* Users want the ability to see all deadlines and need a feature to prevent overbooking for a specific date.
+* Users like positive reinforcement as encouragement to finish a task
+  
 From the cognitive walkthrough, we found that,
-
-    -Users pointed out missing screens and features.
-    -Users pointed out ambiguity with elements. 
-    -Users pointed out unlabeled or ambiguously labeled buttons.
-    -Users pointed out a lack of feedback for doing actions. 
+* Users pointed out missing screens and features.
+* Users pointed out ambiguity with elements.
+* Users pointed out unlabeled or ambiguously labeled buttons.
+* Users pointed out a lack of feedback for doing actions. 
 
 
 ## Conclusions
