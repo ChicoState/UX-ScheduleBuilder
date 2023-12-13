@@ -64,6 +64,16 @@ Findings:
 
 **Executive Summary**
 
+**Findings from user feedback**
+*Users want a way to view assignments based on completion
+*Users want a larger clicking area when interacting with assingments
+*users wished the edit button for assingments was larger and easier to find
+*Users wished the 'add assinment' button was larger
+*Users wished it was easier to edit assingments and events
+*Uses wanted to be able to make changes to the descriptions of assingments
+*All users mentiond a lack of feedback from the prototype
+*Users mentioned text being too small
+*Users mentioned a lack of an edit buttton on the List View
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
