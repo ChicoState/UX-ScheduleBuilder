@@ -64,16 +64,24 @@ Findings:
 
 **Executive Summary**
 
-**User Testing** found new things we can imporve in our app.
+**User Testing** found new things we can improve in our app.
 * Users want a way to view assignments based on completion.
-* Users want a larger clicking area when interacting with assingments.
-* users wished the edit button for assingments was larger and easier to find.
-* Users wished the 'add assinment' button was larger.
-* Users wished it was easier to edit assingments and events.
-* Uses wanted to be able to make changes to the descriptions of assingments.
-* All users mentiond a lack of feedback from the prototype.
+* Users want a larger clicking area when interacting with assignments.
+* users wished the edit button for assignments was larger and easier to find.
+* Users wished the 'add assignment' button was larger.
+* Users wished it was easier to edit assignments and events.
+* Uses wanted to be able to make changes to the descriptions of assignments.
+* All users mentioned a lack of feedback from the prototype.
 * Users mentioned text being too small.
-* Users mentioned a lack of an edit buttton on the List View.
+* Users mentioned a lack of an edit button on the List View.
+
+**What that means**
+* We need to change the size of icons and text to make our app more readable.
+* We need to change the area in which users can click to make the app more easily navigable.
+* We need to change the amount and type of feedback to let users know that an action has happened.
+* We need to add features that allow users to edit assignments at a lower level and we need to make that easier. 
+
+
 * !!!In a bullet-list, provide a summary that highlights...!!!
 * !!!What you've done during this phase...!!!
 * !!!and what the significance of it is...!!!
