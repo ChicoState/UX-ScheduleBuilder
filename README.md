@@ -81,10 +81,4 @@ Findings:
 * We need to change the amount and type of feedback to let users know that an action has happened.
 * We need to add features that allow users to edit assignments at a lower level and we need to make that easier. 
 
-
-* !!!In a bullet-list, provide a summary that highlights...!!!
-* !!!What you've done during this phase...!!!
-* !!!and what the significance of it is...!!!
-* !!!as an executive would understand.!!!
-
 [Full phase III report](phaseIII/)
