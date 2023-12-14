@@ -74,7 +74,7 @@ Our **Usability Testing** found likes and dislikes people had:
 
 **What that means**
 * We need to change the **size of icons and text** to make our app more readable.
-* We need to change the area in which users can click to make the app more easily navigable.
+* We need to change the area in which users can click to make the app **more easily navigable.**
 * We need to change the **amount and type of feedback** to let users know that an action has happened.
 * We need to add features that allow users to **edit assignments** at a lower level and we need to make that easier. 
 
