@@ -67,16 +67,10 @@ Findings:
 
 [Data](https://docs.google.com/spreadsheets/d/1ybXGZ1pyldXdyTHsYkXmdEM3sjZTVuEMB2aplHkLaTA/edit#gid=0)
 
-**User Testing** found new things we can improve in our app.
-* Users want a way to view assignments based on completion.
-* Users want a larger clicking area when interacting with assignments.
-* users wished the edit button for assignments was larger and easier to find.
-* Users wished the 'add assignment' button was larger.
-* Users wished it was easier to edit assignments and events.
-* Uses wanted to be able to make changes to the descriptions of assignments.
-* All users mentioned a lack of feedback from the prototype.
-* Users mentioned text being too small.
-* Users mentioned a lack of an edit button on the List View.
+Our **Usability Testing** found my likes and dislikes people had:
+* **Design/Layout**: Overall people found the website easy to use and navigate, it was learnable because it followed **conventions** but text and icons could be improved
+* **Editing**: Editing should be more broadly available and easier to navigate
+* **Feedback**: There needs to be feedback provided at more interactions because its lack caused confusion with users
 
 **What that means**
 * We need to change the size of icons and text to make our app more readable.
