@@ -63,6 +63,7 @@ Findings:
 **Executive Summary**
 
 [Protocol](protocol.pdf)
+[Data](https://docs.google.com/spreadsheets/d/1ybXGZ1pyldXdyTHsYkXmdEM3sjZTVuEMB2aplHkLaTA/edit#gid=0)
 
 **User Testing** found new things we can improve in our app.
 * Users want a way to view assignments based on completion.
