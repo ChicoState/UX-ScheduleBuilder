@@ -28,70 +28,31 @@ Task 1 was to see the effectiveness of connecting to Canvas because it is not a 
 ## Findings
 
 Based on the informal feedback we received from SE, users have expressed to change several elements to the prototype's design and functionality. Users would like a table that features three categories - Not Started, In Progress, and Completed- on the Listview Page. This additional feature is to provide another way to break down assignments. Users want the website to prompt them to update events on the day they are scheduled to work on them while facilitating the display of completion status. Another feature is adding leaderboards based on events. This would allow users to compete with friends by adding them to their network. Users wanted more color, a sharper design, and an aesthetically pleasing calendar.
-From the Informal Feedback we found
-* Users would like a table with three categories, not started, in progress, and completed on the home page after the “List View” as another way to break down assignments.
-* Users want the website to prompt users to update events if they are supposed to work on it that day to show completion status.
-* Users want leaderboards according to events and be able to add friends to so you are competing with your friends on events.
-* Users want more colors, sharper design, and a nicer-looking calendar
-
 
 
 From the Usability Testing we found 
 All users possess some form of experience with a calendar/planner or calendar applications. A majority expressed interest in using this web app in the future. All users completed all three assigned tasks. 
-* All users have some form of experience with a calendar app or website
-* Many are open to use this app in the future
-* All users completed all 3 tasks.
+
 
 In Task 1, Participant feedback revealed a varied perception of difficulty. One-sixth of the participants assigned a difficulty rating of 5, three-sixths rating of 4, and two-sixths for a rating of 3. Users want a larger clicking area when interacting with assignments. Some did not like the connection process to Canvas. Additionally, some participants reported confusion regarding certain features within the prototype.
 Task 1 
-* 1/6 participants gave a difficult rating of 5
-* 3/6 participants gave a difficult rating of 4
-* 2/6 participants gave a difficult rating of 3
-* Users want a bigger clicking area when viewing assignment
-* Users didn’t like how you connect to Canvas
-* Users were confused on some features on the prototype 
-
 ![task1](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/a284f1eb-7764-4207-9f88-44b32c4f4eb9)
 
  
 In Task 2, Three-sixths assigned a difficulty rating of 5, one-sixth a rating of 4,  one-sixth a rating of 3, and the remaining participant assigned a difficulty rating of 2. Users express a need for an edit button when making changes to an event they had created. Participants emphasized the desire for increased visibility of the "plus" symbol. Additionally, users expressed a need for more comprehensive feedback and enhanced clarity from the prototype. 
 Task 2 
-* 3/6 participants gave a difficult rating of 5 
-* 1/6 participants gave a difficult rating of 4
-* 1/6 participants gave a difficult rating of 3
-* 1/6 participants gave a difficult rating of 2
-* Users pointed out there was no edit button if they wished to make changes on an event they created.
-* Users wished the “+” symbol was more noticeable
-* Users needed more feedback and clarity from the prototype
 
  ![task2](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/c2b5cf54-796d-4922-b9aa-b3e54074cb60)
 
 
 In Task 3, three-sixths assigned a difficulty rating of 5, one-sixth a rating of 4, and two-sixths a rating of 3. Users want an adjustment to the existing edit button, along with the capability to edit event descriptions. Users generally found the task to be straightforward, expressing ease in navigating the interface and confidently locating the relevant information. 
 Task 3
-* 3/6 participants gave a difficult rating of 5
-* 1/6 participants gave a difficult rating of 4
-* 2/6 participants gave a difficult rating of 3
-* Users requested an alteration of the exciting edit button and they wanted the ability to edit the description as well. 
-* Users found the task easy and knew where to look. 
-
 ![task3](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/48bf968a-7452-4a02-9f84-a18628397730)
 
 
 Users liked the ability to view an overview of created events. The connection/integration* with Canvas had positive feedback. Users like the sidebar, acknowledging its utility and ease of navigation. The overall layout of the application also received favorable comments. 
-Users liked:
-* being able to see an overview of created events
-* Connecting to Canvas
-* The sidebar
-* Layout
 
 Users experienced frustration with various aspects. A frustration was not knowing where to click. The inability to edit event descriptions. Text size being small compared to the rest of the site. There was dissatisfaction with the inability to change or save certain information. The absence of an edit button. 
-Users were frustrated by: 
-* Not knowing where to click
-* Not being able to edit the description
-* Text being too small compared to the rest of the site
-* Not being able to change/save
-* Not being able to edit from list view
 
 
 ## Conclusions
