@@ -50,6 +50,9 @@ Task 1
 * Users want a bigger clicking area when viewing assignment
 * Users didn’t like how you connect to Canvas
 * Users were confused on some features on the prototype 
+
+![task1](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/a284f1eb-7764-4207-9f88-44b32c4f4eb9)
+
  
 In Task 2, Three-sixths assigned a difficulty rating of 5, one-sixth a rating of 4,  one-sixth a rating of 3, and the remaining participant assigned a difficulty rating of 2. Users express a need for an edit button when making changes to an event they had created. Participants emphasized the desire for increased visibility of the "plus" symbol. Additionally, users expressed a need for more comprehensive feedback and enhanced clarity from the prototype. 
 Task 2 
@@ -60,7 +63,9 @@ Task 2
 * Users pointed out there was no edit button if they wished to make changes on an event they created.
 * Users wished the “+” symbol was more noticeable
 * Users needed more feedback and clarity from the prototype
- 
+
+ ![task2](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/c2b5cf54-796d-4922-b9aa-b3e54074cb60)
+
 
 In Task 3, three-sixths assigned a difficulty rating of 5, one-sixth a rating of 4, and two-sixths a rating of 3. Users want an adjustment to the existing edit button, along with the capability to edit event descriptions. Users generally found the task to be straightforward, expressing ease in navigating the interface and confidently locating the relevant information. 
 Task 3
@@ -69,6 +74,9 @@ Task 3
 * 2/6 participants gave a difficult rating of 3
 * Users requested an alteration of the exciting edit button and they wanted the ability to edit the description as well. 
 * Users found the task easy and knew where to look. 
+
+![task3](https://github.com/ChicoState/UX-ScheduleBuilder/assets/117888435/48bf968a-7452-4a02-9f84-a18628397730)
+
 
 Users liked the ability to view an overview of created events. The connection/integration* with Canvas had positive feedback. Users like the sidebar, acknowledging its utility and ease of navigation. The overall layout of the application also received favorable comments. 
 Users liked:
