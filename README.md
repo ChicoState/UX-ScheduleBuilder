@@ -67,7 +67,7 @@ Findings:
 
 [Data](https://docs.google.com/spreadsheets/d/1ybXGZ1pyldXdyTHsYkXmdEM3sjZTVuEMB2aplHkLaTA/edit#gid=0)
 
-Our **Usability Testing** found my likes and dislikes people had:
+Our **Usability Testing** found likes and dislikes people had:
 * **Design/Layout**: Overall people found the website easy to use and navigate, it was learnable because it followed **conventions** but text and icons could be improved
 * **Editing**: Editing should be more broadly available and easier to navigate
 * **Feedback**: There needs to be feedback provided at more interactions because its lack caused confusion with users
