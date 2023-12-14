@@ -15,7 +15,7 @@ Schedule Builder is a calendar that will take in assignment data from students' 
 * [Personas and Scenarios](personas/)
 * [Sketches and Diagrams](sketches/)
 * [Wireframes](wireframes/)
-* [Prototype](prototypes/ScheduleBuilder.pdf)
+* [Prototype](protoypes/ScheduleBuilder.pdf)
 
 # Phase I: Analyzing Users, Competitors, and Initial Designs
 
