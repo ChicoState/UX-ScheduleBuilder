@@ -42,6 +42,7 @@ Findings:
 # Phase II: Refining interaction and designing wireframes
 
 **Executive Summary**
+
 **Informal Feedback** found areas for improvement by providing new features that could be added. 
 * Switching views: Users gave positive feedback about the ability to switch between list, weekly, and monthly views.
 * Deadline: Reminders for assignments before deadline and implementing a feature to prevent overbooking.
