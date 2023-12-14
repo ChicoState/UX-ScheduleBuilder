@@ -61,7 +61,7 @@ Findings:
 # Phase III: Prototypes and User Testing
 
 **Executive Summary**
-[Protocol]()
+[Protocol](protocol.pdf)
 **User Testing** found new things we can improve in our app.
 * Users want a way to view assignments based on completion.
 * Users want a larger clicking area when interacting with assignments.
