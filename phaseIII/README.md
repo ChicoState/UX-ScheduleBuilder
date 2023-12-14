@@ -6,12 +6,13 @@ The problem addressed is that we don’t know if our design works with users' me
 
 ## Methods
 
-Informal Feedback
+**Informal Feedback**
+
 The informal feedback was used to discover new insights and new needs about the website. We asked a class of students about how we could improve our application further. The questions we asked were:
-For the assignment list do you like the breakdown or would you do it another way?
-If we created a leaderboard would you want it reset daily, weekly, monthly, etc?
-If you could change one thing about the UI what would it be?
-This was conducted to get opinions of how to further improve the website. The people that were answering the questions are college students, which is our target audience. 
+* For the assignment list do you like the breakdown or would you do it another way?
+* If we created a leaderboard would you want it reset daily, weekly, monthly, etc?
+* If you could change one thing about the UI what would it be?
+* This was conducted to get opinions of how to further improve the website. The people that were answering the questions are college students, which is our target audience. 
 
 Usability Test
 The usability testing was conducted with prototypes and college students. We created prototypes based on our wireframes and gave them to 6 college students to do a usability test. They completed 3 tasks that our team created to gauge the effectiveness and efficiency of our application. Our tasks were:
