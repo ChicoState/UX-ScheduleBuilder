@@ -1,5 +1,3 @@
-!!! NOTE: Delete all parts of this file surrounded by three exclamation marks (including the exclamation marks themselves) and replace them with the appropriate content -- they are only instructions and shouldn't be in your report!!!
-
 # Schedule Builder
 
 Schedule Builder is a calendar that will take in assignment data from students' canvas accounts and generate a school schedule around their available time in order to help student work and finish assignments in a timely manner. 
